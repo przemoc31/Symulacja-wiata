@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Symulacja Świata", "Symulacja Świata\Symulacja Świata.vcxproj", "{5C4BA645-446F-4FA7-95D6-6D06CC921428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Debug|x64.ActiveCfg = Debug|x64
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Debug|x64.Build.0 = Debug|x64
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Debug|x86.Build.0 = Debug|Win32
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Release|x64.ActiveCfg = Release|x64
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Release|x64.Build.0 = Release|x64
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Release|x86.ActiveCfg = Release|Win32
+		{5C4BA645-446F-4FA7-95D6-6D06CC921428}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD97541-3E46-4044-B3A6-6CC3DF42A6D8}
+	EndGlobalSection
+EndGlobal
